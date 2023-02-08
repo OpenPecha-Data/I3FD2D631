@@ -1,0 +1,79 @@
+id: 1d38d69bff2e4db398c42cabc5381d95
+annotation_type: index
+revision: '00001'
+annotations:
+  7f81ba4c3171400bb0837c6503f70378:
+    base: 9A2C.txt
+    Chapters:
+    - title: §1
+      span:
+        start: 0
+        end: 746
+    - title: §2
+      span:
+        start: 747
+        end: 1222
+    - title: §3
+      span:
+        start: 1223
+        end: 1952
+    - title: §4
+      span:
+        start: 1953
+        end: 2770
+    - title: §5
+      span:
+        start: 2771
+        end: 3384
+    - title: §6
+      span:
+        start: 3385
+        end: 3953
+    - title: §7
+      span:
+        start: 3954
+        end: 4798
+    - title: §8
+      span:
+        start: 4799
+        end: 5361
+    - title: §9
+      span:
+        start: 5362
+        end: 5838
+    - title: §10
+      span:
+        start: 5839
+        end: 6695
+    - title: §11
+      span:
+        start: 6696
+        end: 8058
+    - title: §12
+      span:
+        start: 8059
+        end: 9290
+    - title: §13
+      span:
+        start: 9291
+        end: 11609
+    - title: §14
+      span:
+        start: 11610
+        end: 13771
+    - title: §15
+      span:
+        start: 13772
+        end: 14205
+    - title: §16
+      span:
+        start: 14206
+        end: 14516
+    - title: §17
+      span:
+        start: 14517
+        end: 14766
+    - title: §18
+      span:
+        start: 14767
+        end: 14951
